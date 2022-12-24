@@ -1,5 +1,6 @@
 # vsdDevBoard_v0
 This project explains the importance of components used in the PCB design based on the RISC V and SRAM are on the single chip for testing the entire PCB board and also explains how data flows within the design right from writing the code in C in a Software IDE/SDK to transmitting the code to the Flash Memory.
+We aim to construct an approach for testing on-chip digital IP specifically RISC-V and SRAM, both the IP’s were implemented on the single chip core to test their connectivity and functionality. Both the IP’s along with GPIOs and PLL are designed and tested using SkyWater 130 nm process node, a fully open source PDK (Process Design Kit) used to test manufacturable designs. We prepared a BOM (Bill of Materials), illustrated the process carried out from booting the chip, data transfer from USB to SPI, to SPI Flash Memory and lastly to the SoC board.
 
 # Table of Contents
 - [Brief Introduction to data flow](#brief-introduction-to-data-flow)
