@@ -98,5 +98,5 @@ The data is transferred in byte units and after each byte transmission the addre
 
 # Contact information
 - Radhika, M.Tech in Integrated Circuit Technology, University of Hyderabad (UOH), Hyderabad [akurathiradhika29@gmail.com](mailto:akurathiradhika29@gmail.com)
-- Kunal, B.E in Electronics Engineering, Vidyalankar Institute of Technology, Wadala, Mumbai [kunalkokate2753@gmail.com](mailto:kunalkokate2753@gmail.com)
+- Kunal Kokate, B.E in Electronics Engineering, Vidyalankar Institute of Technology, Wadala, Mumbai [kunalkokate03@gmail.com](mailto:kunalkokate03@gmail.com)
 - Kunal Ghosh, CO-founder,VSD Corp. Pvt. Ltd [kunalghosh@gmail.com](mailto:kunalghosh@gmail.com)
